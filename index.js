@@ -5,3 +5,7 @@ function featureA() {
 function featureB() {
     console.log("feature b added by me")
 }
+
+function featureCD() {
+    console.log("implement feature CD by john doe");
+}
